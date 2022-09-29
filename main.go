@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+    fmt.Println("Moikka")
     msg := sayHello("Alice")
     fmt.Println(msg)
 }
