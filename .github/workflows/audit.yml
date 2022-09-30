@@ -52,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: toinen
+        working-directory: testi/toinen
     steps:
       - uses: actions/checkout@v3
 
